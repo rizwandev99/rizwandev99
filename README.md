@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizwandev99
-- 👀 I’m interested in 'developing some amazing projects that changes HumanKind."
+- 👀 I’m interested in 'developing some amazing projects."
 - 🌱 I’m currently learning 'FullStack Development'.
 - 💞️ I’m looking to collaborate on "Any amazing projects."
 - 📫 How to reach me -"rizwandev99@gmail.com"
