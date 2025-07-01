@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h3 align="center">Web Developer | React & TypeScript Specialist</h3>
+<h3 align="center">Web Developer | React & Next.js Specialist | Open for Projects</h3>
 
 <p align="center">
   <a href="mailto:rizwandev99@gmail.com">
@@ -39,12 +39,6 @@ I'm passionate about crafting real-world projects that **solve problems** and **
 ---
 
 ## 💼 Featured Projects
-
-### 🔹 [📦 LoadingOrder](https://github.com/rizwandev99/LoadingOrder)
-> A flexible interface to visualize and manage order & loading states in React UIs.  
-🛠️ React · TypeScript · Tailwind CSS
-
----
 
 ### 🔹 [🛍️ Prostore](https://github.com/rizwandev99/prostore)
 > Sleek e-commerce app with product listings, cart system, and responsive UI.  
