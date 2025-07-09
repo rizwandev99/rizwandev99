@@ -1,80 +1,83 @@
-Hi there, I'm Rizwan! 👋
-I'm a passionate and results-driven Web Developer with a knack for building modern, responsive, and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm constantly learning and exploring new technologies to improve my skills and deliver high-quality work.
+# Hi there, I'm Rizwan! 👋
+# Next.js Specialist
 
-🚀 About Me
-🔭 I’m currently working on honing my skills in full-stack development.
+I'm a passionate and results-driven **Web Developer** with a knack for building modern, responsive, and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm constantly learning and exploring new technologies to improve my skills and deliver high-quality work.
 
-🌱 I’m currently learning more about cloud technologies and DevOps.
+---
 
-👯 I’m looking to collaborate on exciting open-source projects.
+## 🚀 About Me
 
-🤔 I’m looking for help with advanced serverless architectures.
+- 🔭 I’m currently working on honing my skills in **full-stack development**.
+- 🌱 Learning more about **cloud technologies** and **DevOps**.
+- 👯 Open to collaborating on **exciting open-source projects**.
+- 🤔 Seeking mentorship and guidance on **advanced serverless architectures**.
+- 💬 Ask me about **React**, **Node.js**, **TypeScript**, and **Tailwind CSS**.
+- 📫 How to reach me: [rizwandev99@gmail.com](mailto:rizwandev99@gmail.com) or on [LinkedIn](https://linkedin.com/in/rizwandev99)
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can solve a **Rubik's Cube in under a minute**!
 
-💬 Ask me about React, Node.js, TypeScript, and Tailwind CSS.
+---
 
-📫 How to reach me: [Your Email Address] or on [LinkedIn]([Your LinkedIn Profile URL])
+## 🛠️ My Skills
 
-😄 Pronouns: He/Him
+### 💻 Frontend
+- **Languages**: HTML, CSS, JavaScript, TypeScript  
+- **Frameworks/Libraries**: React, Next.js, Tailwind CSS  
+- **Styling**: CSS Modules, Styled-Components  
 
-⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+### 🔧 Backend
+- **Runtime**: Node.js  
+- **Frameworks**: Express.js  
+- **Serverless**: Cloudflare Workers  
+- **Databases**: PostgreSQL, Prisma  
 
-🛠️ My Skills
-Frontend
-Languages: HTML, CSS, JavaScript, TypeScript
+### 🧰 Tools & Technologies
+- **Version Control**: Git, GitHub  
+- **Package Managers**: npm, yarn  
+- **Build Tools**: Webpack, Vite  
+- **Deployment**: Vercel, Cloudflare  
 
-Frameworks/Libraries: React, Next.js, Tailwind CSS
+---
 
-Styling: CSS Modules, Styled-Components
+## 🏆 My Projects
 
-Backend
-Runtime: Node.js
+Here are some of the projects I'm proud of. You can find more in my [GitHub repositories](https://github.com/rizwandev99?tab=repositories).
 
-Frameworks: Express.js
-
-Serverless: Cloudflare Workers
-
-Databases: PostgreSQL, Prisma
-
-Tools & Technologies
-Version Control: Git, GitHub
-
-Package Managers: npm, yarn
-
-Build Tools: Webpack, Vite
-
-Deployment: Vercel, Cloudflare
-
-🏆 My Projects
-Here are some of the projects I'm proud of. You can find more on my repositories page.
-
-1. Medium Clone
+### 📘 Medium Clone
 A full-stack clone of the popular publishing platform, Medium.
 
-Features: User authentication, creating and publishing articles, browsing and reading articles.
+- **Features**: User authentication, article creation/publishing, reading and browsing articles  
+- **Tech Stack**: React, TypeScript, TailwindCSS, Cloudflare Workers, Prisma, PostgreSQL  
+- 🔗 [Live Demo](https://aaa-medium-clone.vercel.app/signup)  
+- 🗂 [Repository](https://github.com/rizwandev99/aaa-medium-clone)
 
-Tech Stack: React, TypeScript, Cloudflare Workers, Prisma, PostgreSQL.
+---
 
-Live Demo: [Link to your deployed project]
+### 💸 Paytm Project
+A web application inspired by Paytm, enabling peer-to-peer transactions.
 
-Repository: https://github.com/rizwandev99/aaa-medium-clone
+- **Features**: User sign-up/sign-in, balance display, money transfers  
+- **Tech Stack**: React, TypeScript, Node.js, Express.js, PostgreSQL  
+- 🗂 [Repository](https://github.com/rizwandev99/aaa-paytm-project)
 
-2. Paytm Project
-A web application inspired by Paytm, demonstrating peer-to-peer transactions.
+---
 
-Features: User sign-up/sign-in, balance display, and money transfer functionality.
+## 📊 My GitHub Stats
 
-Tech Stack: React, TypeScript, Node.js, Express.js, PostgreSQL.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwandev99&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-Repository: https://github.com/rizwandev99/aaa-paytm-project
+---
 
-📊 My GitHub Stats
-📫 Get In Touch
+## 📫 Get In Touch
+
 I'm always open to new opportunities and collaborations. Feel free to connect with me!
 
-LinkedIn: [Your LinkedIn Profile URL]
+- 💼 [LinkedIn](https://linkedin.com/in/rizwandev99)
+- 🐦 [Twitter](https://twitter.com/rizwandev99)
+- 📧 [Email Me](mailto:rizwandev99@gmail.com)
 
-Twitter: [Your Twitter Profile URL]
+---
 
-Email: [Your Email Address]
-
-Thanks for visiting my profile!
+Thanks for visiting my profile! 😊
