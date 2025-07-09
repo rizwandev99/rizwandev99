@@ -47,7 +47,7 @@ I'm a passionate and results-driven **Web Developer** with a knack for building 
 
 Here are some of the projects I'm proud of. You can find more in my [GitHub repositories](https://github.com/rizwandev99?tab=repositories).
 
-### 🛒 ModyStore
+### 🛒 ModyStore - My Mega Project (Took 6 months and still going 😅)
 
 A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, and PayPal. Showcases best practices, clean code, and a beautiful UI.
 
