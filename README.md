@@ -1,6 +1,6 @@
 # Hi there, I'm Rizwan! 👋
 
-# Next.js Specialist
+# React & Next.js Specialist
 
 I'm a passionate and results-driven **Web Developer** with a knack for building modern, responsive, and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm constantly learning and exploring new technologies to improve my skills and deliver high-quality work.
 
@@ -51,8 +51,11 @@ Here are some of the projects I'm proud of. You can find more in my [GitHub repo
 
 A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, and PayPal. Showcases best practices, clean code, and a beautiful UI.
 
-- **Features:** Product catalog, search & filtering, shopping cart, Stripe & PayPal payments, authentication, reviews, order management, admin dashboard, dark mode, responsive design
-- **Tech Stack:** Next.js, TypeScript, Prisma, Stripe, PayPal, PostgreSQL, Tailwind CSS, Vercel
+![ModyStore Demo](https://github.com/rizwandev99/mody-store/blob/main/public/mody-gif.gif)
+
+- 🚀 **Features:** Product catalog, search & filtering, shopping cart, Stripe & PayPal payments, authentication, reviews, order management, admin dashboard, dark mode, responsive design
+- 💻 **Tech Stack:** Next.js, TypeScript, Prisma, Stripe, PayPal, PostgreSQL, Tailwind CSS, Vercel
+
 - 🔗 [Live Demo](https://mody-store-bay.vercel.app/)
 - 🗂 [Repository](https://github.com/rizwandev99/mody-store)
 
@@ -62,8 +65,8 @@ A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, 
 
 A privacy-focused platform to send and receive emails anonymously. Built for seamless, secure communication with a modern stack.
 
-- **Features:** Send/receive anonymous emails, NextAuth authentication, inbox management, rich text editor, dark mode, responsive design
-- **Tech Stack:** Next.js (App Router), TypeScript, Prisma, NextAuth.js, PostgreSQL, Tailwind CSS, Vercel
+- 🚀 **Features:** Send/receive anonymous emails, NextAuth authentication, inbox management, rich text editor, dark mode, responsive design
+- 💻 **Tech Stack:** Next.js (App Router), TypeScript, Prisma, NextAuth.js, PostgreSQL, Tailwind CSS, Vercel
 - 🗂 [Repository](https://github.com/rizwandev99/anonymous-mails)
 
 ---
@@ -72,8 +75,8 @@ A privacy-focused platform to send and receive emails anonymously. Built for sea
 
 A full-featured Medium.com clone with a modern monorepo architecture. Includes a beautiful UI, robust backend, and seamless deployment to Cloudflare Workers.
 
-- **Features:** Blog post creation/editing, user authentication, commenting, tagging, analytics dashboard, dark mode, responsive design
-- **Tech Stack:** React, Vite, Hono (Cloudflare Workers), Prisma, PostgreSQL, Tailwind CSS, Monorepo, Cloudflare
+- 🚀 **Features:** Blog post creation/editing, user authentication, commenting, tagging, analytics dashboard, dark mode, responsive design
+- 💻 **Tech Stack:** React, Vite, Hono (Cloudflare Workers), Prisma, PostgreSQL, Tailwind CSS, Monorepo, Cloudflare
 - 🗂 [Repository](https://github.com/rizwandev99/blog-monkey)
 
 ---
@@ -82,8 +85,8 @@ A full-featured Medium.com clone with a modern monorepo architecture. Includes a
 
 A monorepo-based personal finance management app. Track expenses, manage budgets, and visualize your financial health with a clean UI and robust backend.
 
-- **Features:** Expense tracking, budget management, multi-account support, analytics dashboard, authentication, dark mode, responsive design
-- **Tech Stack:** Turbo monorepo, TypeScript, PostgreSQL, Prisma, Modular apps/packages, Node.js
+- 🚀 **Features:** Expense tracking, budget management, multi-account support, analytics dashboard, authentication, dark mode, responsive design
+- 💻 **Tech Stack:** Turbo monorepo, TypeScript, PostgreSQL, Prisma, Modular apps/packages, Node.js
 - 🗂 [Repository](https://github.com/rizwandev99/money-monkey)
 
 ---
