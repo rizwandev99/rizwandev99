@@ -24,22 +24,27 @@ I'm a passionate and results-driven **Web Developer** with a knack for building 
 ### 💻 Frontend
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Next.js, Tailwind CSS
+- **Frameworks/Libraries**: React, Next.js, Tailwind CSS, Redux
 - **Styling**: CSS Modules, Styled-Components
 
 ### 🔧 Backend
 
 - **Runtime**: Node.js
-- **Frameworks**: Express.js
+- **Frameworks**: Express.js, RESTful APIs
 - **Serverless**: Cloudflare Workers
-- **Databases**: PostgreSQL, Prisma
+- **Databases**: PostgreSQL, Prisma, MongoDB
 
 ### 🧰 Tools & Technologies
 
 - **Version Control**: Git, GitHub
 - **Package Managers**: npm, yarn
-- **Build Tools**: Webpack, Vite
-- **Deployment**: Vercel, Cloudflare
+- **Build Tools**: Webpack, Vite, Jest
+- **Deployment**: Vercel, Cloudflare, Docker, Firebase
+- **API**: GraphQL
+
+### 💪 Soft Skills
+
+- Communication, Remote Collaboration, Agile, Client Management
 
 ---
 
@@ -47,7 +52,7 @@ I'm a passionate and results-driven **Web Developer** with a knack for building 
 
 Here are some of the projects I'm proud of. You can find more in my [GitHub repositories](https://github.com/rizwandev99?tab=repositories).
 
-### 🛒 ModyStore - My Mega Project (Took 6 months and still going 😅)
+### 🛒 ModyStore - My Mega Project (Took 6 months and still going on 😅)
 
 A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, and PayPal. Showcases best practices, clean code, and a beautiful UI.
 
