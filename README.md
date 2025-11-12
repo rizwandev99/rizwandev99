@@ -66,6 +66,20 @@ A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, 
 
 ---
 
+### 🏥 Lief Shift Tracker - Healthcare Workforce Management
+
+A modern, location-aware shift management system designed for healthcare workers and managers. Enables seamless shift tracking with location-based validation, real-time workforce analytics, and comprehensive workforce management capabilities.
+
+![lief-shift-tracker Demo](https://github.com/rizwandev99/lief-shift-tracker/blob/main/public/lief-shift-tracker.gif)
+
+- ✨ **Features:** One-click clock in/out with geolocation validation, real-time active staff dashboard, advanced analytics with charts, shift history management, geofence configuration, role-based access control (Manager vs. Care Worker), Auth0 enterprise authentication
+- 💻 **Tech Stack:** Next.js 15.5.2, React 19, TypeScript, Prisma, PostgreSQL, Supabase, Auth0, Grommet UI, Recharts, Tailwind CSS
+
+- 🔗 [Live Demo](https://lief-shift-tracker-nine.vercel.app/)
+- 🗂 [Repository](https://github.com/rizwandev99/lief-shift-tracker)
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
