@@ -66,8 +66,7 @@ A modern, location-aware shift management system designed for healthcare workers
 
 ---
 
-### 🛒 ModyStore - My Mega Project (Took 6 months and still going on 😅)
-
+### 🛒 ModyStore - My Mega Project
 A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, and PayPal. Showcases best practices, clean code, and a beautiful UI.
 
 ![ModyStore Demo](https://github.com/rizwandev99/mody-store/blob/main/public/mody-gif.gif)
@@ -80,14 +79,6 @@ A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, 
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwandev99&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 Get In Touch
 
 I'm always open to new opportunities and collaborations. Feel free to connect with me!
@@ -95,6 +86,7 @@ I'm always open to new opportunities and collaborations. Feel free to connect wi
 - 💼 [LinkedIn](https://linkedin.com/in/rizwandev99)
 - 🐦 [Twitter](https://twitter.com/rizwandev99)
 - 📧 [Email Me](mailto:rizwandev99@gmail.com)
+- 📞 Phone: +91-99261-89005
 
 ---
 
