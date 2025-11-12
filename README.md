@@ -66,36 +66,6 @@ A modern, full-featured E-Commerce platform built with Next.js, Prisma, Stripe, 
 
 ---
 
-### ✉️ Anonymous Mails
-
-A privacy-focused platform to send and receive emails anonymously. Built for seamless, secure communication with a modern stack.
-
-- 🚀 **Features:** Send/receive anonymous emails, NextAuth authentication, inbox management, rich text editor, dark mode, responsive design
-- 💻 **Tech Stack:** Next.js (App Router), TypeScript, Prisma, NextAuth.js, PostgreSQL, Tailwind CSS, Vercel
-- 🗂 [Repository](https://github.com/rizwandev99/anonymous-mails)
-
----
-
-### 🐒 Blog Monkey
-
-A full-featured Medium.com clone with a modern monorepo architecture. Includes a beautiful UI, robust backend, and seamless deployment to Cloudflare Workers.
-
-- 🚀 **Features:** Blog post creation/editing, user authentication, commenting, tagging, analytics dashboard, dark mode, responsive design
-- 💻 **Tech Stack:** React, Vite, Hono (Cloudflare Workers), Prisma, PostgreSQL, Tailwind CSS, Monorepo, Cloudflare
-- 🗂 [Repository](https://github.com/rizwandev99/blog-monkey)
-
----
-
-### 💸 Money Monkey
-
-A monorepo-based personal finance management app. Track expenses, manage budgets, and visualize your financial health with a clean UI and robust backend.
-
-- 🚀 **Features:** Expense tracking, budget management, multi-account support, analytics dashboard, authentication, dark mode, responsive design
-- 💻 **Tech Stack:** Turbo monorepo, TypeScript, PostgreSQL, Prisma, Modular apps/packages, Node.js
-- 🗂 [Repository](https://github.com/rizwandev99/money-monkey)
-
----
-
 ## 📊 My GitHub Stats
 
 <p align="center">
