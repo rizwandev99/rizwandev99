@@ -52,7 +52,19 @@ I'm a passionate and results-driven **Web Developer** with a knack for building 
 
 Here are some of the projects I'm proud of. You can find more in my [GitHub repositories](https://github.com/rizwandev99?tab=repositories).
 
-### 🏥 Lief Shift Tracker - Healthcare Workforce Management
+### �️ DineAI - Restaurant Booking Voice Agent
+
+A voice agent that helps users book restaurant tables through natural conversation. Features voice interaction via LiveKit, weather-based seating suggestions, a complete booking flow, and MongoDB storage.
+
+- ✨ **Features:** Voice conversation using LiveKit, weather-based seating suggestions, complete booking flow, MongoDB storage, real-time voice interaction
+- 💻 **Tech Stack:** Python, LiveKit Agents, Groq (llama-3.3-70b), Deepgram (STT/TTS), Node.js, Express, TypeScript, MongoDB Atlas, OpenWeatherMap API
+
+- 🎥 [Video Demo](https://youtu.be/pA2antI6DGs)
+- 🗂 [Repository](https://github.com/rizwandev99/rizwandev99/tree/main/DINEAI)
+
+---
+
+### �🏥 Lief Shift Tracker - Healthcare Workforce Management
 
 A modern, location-aware shift management system designed for healthcare workers and managers. Enables seamless shift tracking with location-based validation, real-time workforce analytics, and comprehensive workforce management capabilities.
 
@@ -62,6 +74,7 @@ A modern, location-aware shift management system designed for healthcare workers
 - 💻 **Tech Stack:** Next.js 15.5.2, React 19, TypeScript, Prisma, PostgreSQL, Supabase, Auth0, Grommet UI, Recharts, Tailwind CSS
 
 - 🔗 [Live Demo](https://lief-shift-tracker-nine.vercel.app/)
+- 🎥 [Video Demo](https://youtu.be/yYROcXn6lC4)
 - 🗂 [Repository](https://github.com/rizwandev99/lief-shift-tracker)
 
 ---
