@@ -52,9 +52,11 @@ I'm a passionate and results-driven **Web Developer** with a knack for building 
 
 Here are some of the projects I'm proud of. You can find more in my [GitHub repositories](https://github.com/rizwandev99?tab=repositories).
 
-### �️ DineAI - Restaurant Booking Voice Agent
+### 🍽️ DineAI - Restaurant Booking Voice Agent
 
 A voice agent that helps users book restaurant tables through natural conversation. Features voice interaction via LiveKit, weather-based seating suggestions, a complete booking flow, and MongoDB storage.
+
+![DineAI Demo](https://github.com/rizwandev99/DineAI/blob/main/public/dineai-gif.gif)
 
 - ✨ **Features:** Voice conversation using LiveKit, weather-based seating suggestions, complete booking flow, MongoDB storage, real-time voice interaction
 - 💻 **Tech Stack:** Python, LiveKit Agents, Groq (llama-3.3-70b), Deepgram (STT/TTS), Node.js, Express, TypeScript, MongoDB Atlas, OpenWeatherMap API
@@ -64,7 +66,7 @@ A voice agent that helps users book restaurant tables through natural conversati
 
 ---
 
-### �🏥 Lief Shift Tracker - Healthcare Workforce Management
+### 🏥 Lief Shift Tracker - Healthcare Workforce Management
 
 A modern, location-aware shift management system designed for healthcare workers and managers. Enables seamless shift tracking with location-based validation, real-time workforce analytics, and comprehensive workforce management capabilities.
 
