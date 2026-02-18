@@ -62,7 +62,7 @@ A voice agent that helps users book restaurant tables through natural conversati
 - 💻 **Tech Stack:** Python, LiveKit Agents, Groq (llama-3.3-70b), Deepgram (STT/TTS), Node.js, Express, TypeScript, MongoDB Atlas, OpenWeatherMap API
 
 - 🎥 [Video Demo](https://youtu.be/pA2antI6DGs)
-- 🗂 [Repository](https://github.com/rizwandev99/rizwandev99/tree/main/DINEAI)
+- 🗂 [Repository](https://github.com/rizwandev99/DineAI)
 
 ---
 
