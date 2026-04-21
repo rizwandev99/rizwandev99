@@ -1,6 +1,6 @@
 # Hi there, I'm Rizwan! 👋
 
-# Full Stack Web Developer | React, Next.js & AI
+# Full Stack Web Developer | React, Next.js & AI Integrations
 
 I'm a passionate and results-driven **Web Developer** with a knack for building modern, responsive, and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm constantly learning and exploring new technologies to improve my skills and deliver high-quality work.
 
