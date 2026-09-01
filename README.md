@@ -21,36 +21,56 @@ I'm a passionate and results-driven **Web Developer** with a knack for building 
 
 ## 🛠️ My Skills
 
+### 🤖 AI & Agentic Systems
+
+- **Agent Orchestration**: LangGraph.js, LangChain, Vercel AI SDK 6, LiveKit Voice Agents
+- **RAG & Vector Search**: PostgreSQL `pgvector`, Hybrid Search (Dense + Sparse RRF), Semantic Embeddings
+- **Models & Audio**: Groq (LLaMA 3.3 70B), OpenAI GPT-4o, Anthropic Claude 3.5 Sonnet, Deepgram (STT/TTS)
+
 ### 💻 Frontend
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Next.js, Tailwind CSS, Redux
-- **Styling**: CSS Modules, Styled-Components
+- **Languages**: TypeScript, JavaScript, HTML5, CSS3
+- **Frameworks/Libraries**: React 19, Next.js 15, Tailwind CSS v4, shadcn/ui, Redux
+- **Styling**: Tailwind CSS, CSS Modules, Glassmorphism Design Systems
 
 ### 🔧 Backend
 
-- **Runtime**: Node.js
-- **Frameworks**: Express.js, RESTful APIs
-- **Serverless**: Cloudflare Workers
-- **Databases**: PostgreSQL, Prisma, MongoDB
+- **Runtime**: Node.js, Python
+- **Frameworks**: Next.js App Router, Express.js, RESTful APIs, Server Actions
+- **Databases & ORM**: PostgreSQL, `pgvector`, Prisma ORM, Supabase, MongoDB Atlas
+- **Serverless & Edge**: Cloudflare Workers, Vercel Edge Runtime
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & DevOps
 
-- **Version Control**: Git, GitHub
-- **Package Managers**: npm, yarn
-- **Build Tools**: Webpack, Vite, Jest
-- **Deployment**: Vercel, Cloudflare, Docker, Firebase
-- **API**: GraphQL
+- **Observability**: OpenTelemetry (OTel), OTLP Tracing
+- **Testing**: Vitest, Playwright, Jest
+- **Version Control & CI/CD**: Git, GitHub, GitHub Actions
+- **Deployment**: Vercel, Docker, Cloudflare, Firebase
 
 ### 💪 Soft Skills
 
-- Communication, Remote Collaboration, Agile, Client Management
+- Technical Architecture, Remote Collaboration, Agile, Problem Solving, Product-Oriented Engineering
 
 ---
 
 ## 🏆 My Projects
 
 Here are some of the projects I'm proud of. You can find more in my [GitHub repositories](https://github.com/rizwandev99?tab=repositories).
+
+### ⚡ Nexus AI — Enterprise Knowledge Worker & Agentic Workflow Engine
+
+An enterprise-grade autonomous AI Knowledge Worker featuring stateful multi-step LangGraph orchestration, multi-vector Hybrid RAG (`pgvector` + `tsvector` RRF ranking), Human-in-the-Loop (HITL) safe database mutations, real-time DuckDuckGo web search, and OpenTelemetry distributed tracing.
+
+![Nexus AI Demo](https://raw.githubusercontent.com/rizwandev99/nexus-enterprise-knowledge-worker/main/public/screenshots/nexus-demo.gif)
+
+- ✨ **Features:** Multi-Vector Hybrid RAG with Reciprocal Rank Fusion, Stateful Cyclic LangGraph.js Agent, Human-in-the-Loop (HITL) interactive SQL approvals, Live DuckDuckGo Web Search, Sense AI Obsidian Dark Glassmorphism UI, OpenTelemetry Distributed Tracing, 1-Click Knowledge Base Seeding.
+- 💻 **Tech Stack:** Next.js 15, React 19, LangGraph.js, PostgreSQL (pgvector + tsvector RRF), Prisma ORM, OpenTelemetry, Tailwind CSS v4, Vercel AI SDK 6, Groq (llama-3.3-70b) / OpenAI / Claude
+
+- 🔗 [Live Application](https://nexus-enterprise-knowledge-worker.vercel.app)
+- 🎥 [Video Demo (4-min HD)](https://youtu.be/vZSU9izlB1s)
+- 🗂 [Repository](https://github.com/rizwandev99/nexus-enterprise-knowledge-worker)
+
+---
 
 ### 🍽️ DineAI - Restaurant Booking Voice Agent
 
